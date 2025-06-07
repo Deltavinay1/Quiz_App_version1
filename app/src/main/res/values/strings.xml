@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="button_enter">ENTER</string>
+    <string name="hint_name">name</string>
+    <string name="ques_text">What country does this flag belong to?</string>
+    <string name="flag_images">Flag Images</string>
+    <string name="check">CHECK</string>
+    <string name="result">Result</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="finish">FINISH</string>
+    <string name="trophy_image">Trophy Image</string>
+</resources>
